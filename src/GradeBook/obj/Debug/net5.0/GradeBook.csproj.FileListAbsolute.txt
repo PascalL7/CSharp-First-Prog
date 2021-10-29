@@ -1,0 +1,15 @@
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.AssemblyReference.cache
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/pascal/Sources/CSharp/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pascal/.dotnet/store/|arch|/|tfm|",
+      "/Users/pascal/.nuget/packages"
+    ]
+  }
+}
